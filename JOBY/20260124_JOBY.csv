@@ -1,0 +1,22 @@
+﻿,text_clean,hit_id_true,id,indictor_name,condition,reason
+0,"Joby Aviation, an electric air taxi developer backed by Toyota with $500 million in funding, is developing the Joby S4, an electric vertical take-off and landing (eVTOL) aircraft designed for urban and regional passenger transport. The aircraft accommodates one pilot and four passengers, has a range of up to approximately 240 kilometres, and achieves a cruising speed of around 320 km/h. It is expected to produce significantly lower noise emissions compared to helicopters. Pilot production of the Joby S4 is underway in Marina, California, and the company plans to open a second production facility in Dayton, Ohio, to enable manufacturing of four air taxis per month starting in 2027. Commercial operations are scheduled to begin in 2026, including in Dubai, pending final certification by the US Federal Aviation Administration (FAA). To support air taxi operations, Joby Aviation has partnered with Metropolis, the largest parking facility operator in the US, which manages over 4,200 locations and provides flight services at more than 350 sites. The partnership aims to develop 25 vertiports across the USA by repurposing existing Metropolis parking sites, with selection focused on markets identified as particularly attractive for initial electric air taxi deployment. The companies plan to integrate Metropolis’s technology—including biometrics, computer vision, and baggage handling services—into Joby’s air taxi operations to connect them with existing ground transportation infrastructure. As an initial step, Metropolis will provide its Bags VIP service to Blade Urban Air Mobility, Joby’s subsidiary, for helicopter flights between Manhattan and JFK or Newark airports in New York; these flights currently take five minutes and avoid up to two hours of traffic and typical airport delays. Air taxis are expected to replace helicopters in this service in the future.",,-1,,,"文本中未提及任何指标所要求的明确关键词或可直接与阈值比较的数值。例如：
+- 没有提到 FAA TIA 'For-Credit' 测试是否启动（指标1、6）；
+- 没有提供 FAA 侧 Stage 4 审核完成度的具体百分比或变化（指标2、7）；
+- 虽然提到迪拜将开展商业运营，但未说明垂直起降场是否完工，也未出现 'Ticketed / Passenger Service' 等关键词（指标3、8）；
+- 虽然提到 Toyota 是投资者并提供了5亿美元资金，但未说明是否签署了制造联盟最终协议，也未确认第二期2.5亿美元是否到账（指标4）；
+- 提到 pilot production 正在进行，但未披露符合性飞机（Conforming Aircraft）数量的净增长（指标5）；
+- 未涉及 Archer 诉讼案结果（指标9）；
+- 未披露季度 Cash Burn 数值或 ATM/股权增发公告（指标10）。
+因此，文本虽包含大量业务进展信息，但均不符合任一指标定义中对‘明确指标+明确数值/判断’的严格要求，故不满足任何指标条件。"
+1,Joby Aviation在2026年已公开披露新增5项专利，全年累计公开披露专利超70项，平均每月约6项；近期专利聚焦eVTOL飞机平台技术，包括可折叠旋翼系统、电池自动位移配平机制以及针对鸟击的旋翼折叠吸能结构设计。,,-1,,,"该文本内容聚焦于Joby Aviation在2026年公开披露的专利数量（全年超70项，平均每月约6项）以及近期专利的技术方向（如可折叠旋翼系统、电池自动位移配平机制、鸟击吸能结构等）。然而，所有可用的bullish或bearish指标均未涉及专利数量或技术细节作为触发条件。具体来看：
+
+- 指标1、6关注FAA TIA 'For-Credit'测试是否实质启动，文本未提及FAA试飞员、计分飞行或相关官方确认；
+- 指标2、7关注FAA侧Stage 4审核完成度的百分比变化，文本未提供任何关于审核进度或完成度的数据；
+- 指标3、8涉及迪拜基建或运营许可状态，文本未提及相关机构（RTA/Skyports/GCAA）或“售票”“非营收”等关键词；
+- 指标4、5分别要求丰田制造协议签署/资金到位、符合性飞机净增长，文本未涉及制造合作或机队数量；
+- 指标9关于Archer诉讼案，文本完全未提及；
+- 指标10关注现金烧钱率和融资行为，文本未提供财务数据。
+
+虽然文本提供了明确的专利数量（如“全年累计公开披露专利超70项”），但没有任何一个指标将“专利数量”或“技术方向”作为定义中的触发条件。因此，尽管信息明确，但与所有指标的定义范畴不匹配，无法满足任一指标的触发条件。根据规则第1条，必须同时满足‘提及相关指标名称（或同一概念范畴）’和‘给出可与阈值直接比较的明确数值’，此处两项均不成立。故判定为不满足任何指标。"
+2,Joby航空器注册号N541JX于2026年1月24日前后连续两天在FlightAware出现计划航班信息；此类计划航班需向FAA提交正式飞行计划，而实验性预TIA试飞无需提交；该现象被解释为Joby正进行TIA（型号检查授权）试飞前的FAA流程演练，预示TIA试飞即将启动。,,-1,,,文本描述了Joby航空器注册号N541JX在2026年1月24日前后连续两天在FlightAware上出现计划航班信息，并指出该行为被解释为TIA试飞前的FAA流程演练，预示TIA试飞即将启动。然而，所有bullish和bearish指标均要求明确提及特定事件或数值（如'FAA pilots commenced for-credit testing'、'FAA侧完成度增长>10%'、'Non-revenue'等），并需提供可直接与阈值比较的明确信息。本文本未提及任何指标中定义的关键术语（如'for-credit testing'、'FAA Approved完成度百分比'、'Ticketed/Passenger Service'、'Manufacturing Alliance Final Agreement Signed'、'Conforming Aircraft数量'、'Non-revenue'等），也未提供任何可量化数值（如完成度百分比、飞机数量、烧钱率等）。虽然提到了'TIA试飞即将启动'，但并未满足指标1中'FAA试飞员已开始计分飞行'的官方确认条件，也未达到指标6中关于2026年4月前无确切消息的bearish触发条件（因当前时间点为2026年1月，且仅为推测性描述）。因此，无法明确命中任一指标，返回不满足。
+3,"Joby Aviation在LinkedIn发布“Business Operations Manager, Abu Dhabi”职位，明确将阿联酋列为公司全球首个商业运营启动市场，相关团队职责涵盖飞行运营、业务拓展、制造与总装集成，该岗位将支持阿布扎比市场的商业首发及长期规模化运营。",,-1,,,"该文本提到Joby Aviation在LinkedIn发布‘Business Operations Manager, Abu Dhabi’职位，并指出阿联酋是其全球首个商业运营启动市场，岗位职责涵盖飞行运营、业务拓展、制造与总装集成，支持阿布扎比市场的商业首发及长期规模化运营。然而，所有可用指标均要求文本中必须包含与特定指标名称相关联的明确数值或可直接推理出明确判断结果的信息（如FAA试飞员开始计分飞行、基建完工+售票许可、丰田二期资金到账、使用‘Non-revenue’等限定词等）。该文本虽提及阿布扎比作为首发市场和相关运营职责，但未涉及任何指标所定义的具体关键词或可量化/可明确判断的状态（例如未提‘Ticketed / Passenger Service’、未说明基建是否完工、未使用‘Non-revenue’等bearish措辞、也未涉及FAA进度、制造协议、现金流等其他指标要素）。因此，无法满足任何一个bullish或bearish指标的触发条件。"
